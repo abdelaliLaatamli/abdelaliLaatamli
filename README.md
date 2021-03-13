@@ -6,8 +6,8 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaliLaatamli&layout=compact&hide=html" alt="davidbentopereira" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaliLaatamli&show_icons=true" alt="davidbentopereira" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaliLaatamli&layout=compact&hide=html" alt="abdelaliLaatamli" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaliLaatamli&show_icons=true" alt="abdelaliLaatamli" />
 
 <!---
 abdelaliLaatamli/abdelaliLaatamli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
