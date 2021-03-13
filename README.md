@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @abdelaliLaatamli a FullStack developer
 - 🌱 I’m currently working on PI Marketing as Software engineer
+- 💻 Languages & Frameworks: PHP/Laravel & JAVA/Springboot & JAVASCRIPT/Angular +7
 - 👀 I’m interested in JAVA/PHP/JAVASCRIPT Technologies
 - 💞️ I’m looking to collaborate on ... ANGULAR
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/abdelalilaatamli/"  target="_blank" >
