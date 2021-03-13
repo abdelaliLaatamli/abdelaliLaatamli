@@ -2,9 +2,8 @@
 - 🌱 I’m currently working on PI Marketing as Software engineer
 - 💻 Languages & Frameworks: PHP/Laravel & JAVA/Springboot & JAVASCRIPT/Angular +7
 - 👀 I’m interested in JAVA/PHP/JAVASCRIPT Technologies
-- 📫 How to reach me : <a href="https://www.linkedin.com/in/abdelalilaatamli/"  target="_blank" >
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
+- 📫 How to reach me : <a href="https://www.linkedin.com/in/abdelalilaatamli/" target="_blank"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" /></a>
+
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelaliLaatamli&layout=compact&hide=html" alt="abdelaliLaatamli" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaliLaatamli&show_icons=true" alt="abdelaliLaatamli" />
